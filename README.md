@@ -7,3 +7,8 @@
 # Memes
 
 Šitoje programoje įvedus viršutinį ir apatinį tekstą gaunama meme nuotrauka (random iš API) kurioje yra matomas jūsų parašytas tekstas.
+
+
+
+
+Kad paleisti šitas react programas reikia turėti node-module
